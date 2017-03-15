@@ -9,7 +9,16 @@
 
   - Generative Models(harder): don’t rely on pre-defined responses. They generate new responses from scratch. Generative models are typically based on Machine Translation techniques, but instead of translating from one language to another, we “translate” from an input to an output (response).
 
-## 2. Resources
+## 2. Roadmap
+
+  1. Artificial neural network
+  1. back-propagation- BP
+  1. Recurrent neural network (back propagation through time )
+  1. Long Short Term Memory - Gated Recurrent Units
+  1. One hot vector -> N-Grams, CBOW, Skip grams
+
+## 3. Resources
+
 
   **Seq2Seq**
 
