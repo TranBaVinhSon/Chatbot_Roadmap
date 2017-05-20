@@ -14,10 +14,23 @@
   1. Artificial neural network
   1. back-propagation- BP
   1. Recurrent neural network (back propagation through time )
-  1. Long Short Term Memory - Gated Recurrent Units
   1. One hot vector -> N-Grams, CBOW, Skip grams
+  1. Long Short Term Memory - Gated Recurrent Units
+  1. Seq2Seq
 
 ## 3. Resources
+
+
+  **Tensorflow**
+
+  * Tensorflow for Deep Learning :
+  http://web.stanford.edu/class/cs20si/syllabus.html
+
+
+  **NLP**
+
+  * Natural Language Processing with Deep Learning :
+  http://web.stanford.edu/class/cs224n/
 
 
   **Seq2Seq**
