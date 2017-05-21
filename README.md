@@ -11,6 +11,7 @@
 
 ## 2. Roadmap
 
+  1. Linear Regression and Logistic Regression
   1. Artificial neural network
   1. back-propagation- BP
   1. Recurrent neural network (back propagation through time )
